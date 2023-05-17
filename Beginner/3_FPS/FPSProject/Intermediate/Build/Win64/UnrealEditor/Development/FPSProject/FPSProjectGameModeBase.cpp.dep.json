@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\fpsprojectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\fpsprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealeditor\\development\\fpsproject\\definitions.fpsproject.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\fpsprojectgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsproject\\uht\\fpsprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

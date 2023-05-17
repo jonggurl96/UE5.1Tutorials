@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\private\\fpsprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\fpsproject\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\development\\fpsproject\\definitions.fpsproject.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\public\\fpsprojectile.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\inc\\fpsproject\\uht\\fpsprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

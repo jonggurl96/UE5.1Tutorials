@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\private\\fpscharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\fpsproject\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\shipping\\fpsproject\\definitions.fpsproject.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\public\\fpscharacter.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\public\\fpsprojectile.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\inc\\fpsproject\\uht\\fpsprojectile.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\inc\\fpsproject\\uht\\fpscharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

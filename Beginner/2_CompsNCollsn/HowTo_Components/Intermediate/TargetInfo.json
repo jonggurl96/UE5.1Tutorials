@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HowTo_Components",
+			"Path": "C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\2_CompsNCollsn\\HowTo_Components\\Source\\HowTo_Components.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HowTo_ComponentsEditor",
+			"Path": "C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\2_CompsNCollsn\\HowTo_Components\\Source\\HowTo_ComponentsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\fpsproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\fpsproject\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealgame\\shipping\\fpsproject\\definitions.fpsproject.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\source\\fpsproject\\fpsproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

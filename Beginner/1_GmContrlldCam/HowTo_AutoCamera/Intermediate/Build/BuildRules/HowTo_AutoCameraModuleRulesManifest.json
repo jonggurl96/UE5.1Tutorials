@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\1_GmContrlldCam\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera\\HowTo_AutoCamera.Build.cs",
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\1_GmContrlldCam\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera.Target.cs",
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\1_GmContrlldCam\\HowTo_AutoCamera\\Source\\HowTo_AutoCameraEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\1_gmcontrlldcam\\howto_autocamera\\intermediate\\build\\win64\\unrealeditor\\inc\\howto_autocamera\\uht\\howto_autocameragamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\1_gmcontrlldcam\\howto_autocamera\\intermediate\\build\\win64\\howto_autocameraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\1_gmcontrlldcam\\howto_autocamera\\intermediate\\build\\win64\\unrealeditor\\development\\howto_autocamera\\definitions.howto_autocamera.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\1_gmcontrlldcam\\howto_autocamera\\source\\howto_autocamera\\howto_autocameragamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\1_gmcontrlldcam\\howto_autocamera\\intermediate\\build\\win64\\unrealeditor\\inc\\howto_autocamera\\uht\\howto_autocameragamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsproject\\uht\\fpsproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\fpsprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\3_fps\\fpsproject\\intermediate\\build\\win64\\unrealeditor\\development\\fpsproject\\definitions.fpsproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

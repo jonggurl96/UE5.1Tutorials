@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HowTo_AutoCamera",
+			"Path": "C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\1_GmContrlldCam\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HowTo_AutoCameraEditor",
+			"Path": "C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\1_GmContrlldCam\\HowTo_AutoCamera\\Source\\HowTo_AutoCameraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

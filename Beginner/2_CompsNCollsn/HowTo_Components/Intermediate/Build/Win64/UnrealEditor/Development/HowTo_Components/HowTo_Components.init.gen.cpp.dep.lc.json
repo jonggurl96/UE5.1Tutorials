@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\2_compsncollsn\\howto_components\\intermediate\\build\\win64\\unrealeditor\\inc\\howto_components\\uht\\howto_components.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\2_compsncollsn\\howto_components\\intermediate\\build\\win64\\howto_componentseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jongg\\desktop\\ue5_workspace\\ue5.1tutorials\\beginner\\2_compsncollsn\\howto_components\\intermediate\\build\\win64\\unrealeditor\\development\\howto_components\\definitions.howto_components.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\2_CompsNCollsn\\HowTo_Components\\Source\\HowTo_Components\\HowTo_Components.Build.cs",
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\2_CompsNCollsn\\HowTo_Components\\Source\\HowTo_Components.Target.cs",
+		"C:\\Users\\jongg\\Desktop\\UE5_workspace\\UE5.1Tutorials\\Beginner\\2_CompsNCollsn\\HowTo_Components\\Source\\HowTo_ComponentsEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
